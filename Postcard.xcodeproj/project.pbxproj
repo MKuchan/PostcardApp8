@@ -415,6 +415,7 @@
 				BE4EADDC1A54AE3300C77E01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BE4EADDD1A54AE3300C77E01 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				BE4EADDF1A54AE3300C77E01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
