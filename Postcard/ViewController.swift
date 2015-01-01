@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
+        //Code will execute when we press the Send Mail button.
         //update attributes or properties. "=" is Assignment Operator.
         messageLabel.hidden = false
         messageLabel.text = enterMessageTextField.text
